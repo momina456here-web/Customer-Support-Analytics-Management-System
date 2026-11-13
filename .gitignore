@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+support_tickets.db
+reports/*.png
+reports/*.csv
+reports/*.json
+!reports/.gitkeep
