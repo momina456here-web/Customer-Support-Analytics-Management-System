@@ -124,9 +124,4 @@ an unresolved ticket breaches SLA when its age at analysis time exceeds `sla_hou
 - Add scheduled ingestion and email alerts
 - Add configurable SLA targets by priority
 
-## Portfolio note
 
-Before publishing, run the project yourself, inspect the outputs, and customize the
-README with screenshots and a short explanation of one insight you discovered.
-Be prepared to explain the data flow, validation rules, SQL table, and KPI definitions
-in an interview.
